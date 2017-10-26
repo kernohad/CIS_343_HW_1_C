@@ -1,5 +1,5 @@
 /**
-	Created by Dylan Kernohan on 9/19/2017
+	Created by Dylan Kernohan on 9/19/2017.
 **/
 
 #ifndef __H_FILE_UTILS__
